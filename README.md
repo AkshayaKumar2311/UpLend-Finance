@@ -7,5 +7,5 @@ Need of the Study :
 By doing the prediction for default payment, we can help the client to predict if the person applying for loan is going to be a defaulter or not.
 
 Data Source :
-We are provided a text file that consists of 855696 records and 73 predictor ariables and 1 target variable.
+We are provided a text file that consists of 855696 records and 72 predictor ariables and 1 target variable.
 
