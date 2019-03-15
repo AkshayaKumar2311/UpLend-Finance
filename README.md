@@ -1,11 +1,11 @@
 # UpLend-Finance
-A Financial Bank asked us to predict if the customers are going to default or not.
+A Financial Bank asked us to predict if the customers are going to default a loan or not.
 
-An analytical study on credit scoring practices and its impact on the performance of UpLend Finance Ltd by building a model using Python Machine learning techniques.
+An analytical study on credit scoring practices and its impact on the performance of XYZ Finance Ltd by building a model using Python Machine learning techniques.
 
 Need of the Study :
 By doing the prediction for default payment, we can help the client to predict if the person applying for loan is going to be a defaulter or not.
 
 Data Source :
-We are provided a text file that consists of 855696 records and 72 predictor ariables and 1 target variable.
+We are provided a text file that consists of 855696 records and 72 predictor variables and 1 target variable.
 
